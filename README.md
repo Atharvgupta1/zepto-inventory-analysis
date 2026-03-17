@@ -1,7 +1,7 @@
 # 📊 Retail Inventory &amp; Pricing Analysis using SQL
 SQL project analyzing retail pricing, discounts, and inventory data to identify inefficiencies and generate business insights
 
-📌 Overview
+##📌 Overview
 
 This project focuses on analyzing retail inventory data to understand pricing patterns, discount strategies, and stock levels. Using SQL, the dataset was explored, cleaned, and analyzed to identify issues such as overpriced products, ineffective discounts, and inventory risks like overstock and stockouts.
 
