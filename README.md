@@ -18,8 +18,6 @@ This project aims to:
 
 ---
 
-## [📥 Data Source
-
 ## 📥 Data Source
 
 The dataset used in this project is sourced from Kaggle.
